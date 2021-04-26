@@ -1,17 +1,17 @@
 # DYMO-CUPS-Drivers
-###About
+### About
 The driver contained here is a fork of the drivers available for download
 from DYMO's website, which doesn't seem show a download link at this time.
 
 This driver is minimally modified to allow for compiling, and execution on a modern linux system.
 
-###Build and install
+### Build and install
 ```bash
 ./configure
 make && sudo make install
 ```
 
-###Command line examples
+### Command line examples
 
 - Print very long text on a tape:
 ```bash
