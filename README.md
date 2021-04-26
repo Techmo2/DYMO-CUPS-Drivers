@@ -1,9 +1,8 @@
 # DYMO-CUPS-Drivers
 ### About
-The driver contained here is a fork of the drivers available for download
-from DYMO's website, which doesn't seem show a download link at this time.
+The driver contained here is a fork of the drivers from DYMO's website, which doesn't seem to work properly at this time.
 
-This driver is minimally modified to allow for compiling, and execution on a modern linux system.
+This driver is minimally modified to allow for compiling, and execution on a modern linux system with a newer version of the cups api.
 
 ### Build and install
 ```bash
